@@ -1,0 +1,30 @@
+body {
+	background-color: #e3f1fc;
+}
+
+#input-section {
+	background-color: white;
+	text-align: center;
+	border-radius: 8px;
+}
+
+#counter-display {
+	font-size: 32px;
+}
+
+#kana-input {
+	text-align: center;
+}
+
+#options-section {
+	background-color: white;
+	border-radius: 8px;
+}
+
+#primary-col {
+	background-color: #e0fcde;
+}
+#title {
+	text-align: center;
+	color: #602e37;
+}
